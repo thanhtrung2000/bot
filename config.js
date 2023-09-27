@@ -1,15 +1,15 @@
 module.exports = {
-TOKEN: "",
-ownerID: [""], //write your discord user id. example: ["id"] or ["id1","id2"]
-botInvite: "", //write your discord bot invite.
-supportServer: "", //write your discord bot support server invite.
-mongodbURL: "", //write your mongodb url.
-status: '❤️ codeshare.me',
-commandsDir: './commands', //Please don't touch
-language: "en", //en, tr, nl, pt, fr, ar, zh_TW, it, ja
-embedColor: "ffa954", //hex color code
-errorLog: "", //write your discord error log channel id.
-
+    TOKEN: "MTE1NjY0MTIxODE3MjgxMzMxNA.GrTAx5.T_0j8O0dtk0hfSPxG9kA27_Jr7CbtbtcBl102k",
+    ownerID: ["478865829967036426"], //write your discord user id. example: ["id"] or ["id1","id2"]
+    botInvite: "", //write your discord bot invite.
+    supportServer: "", //write your discord bot support server invite.
+    mongodbURL: "mongodb+srv://trungpham:thanhtrung2000@cluster0.tdv940s.mongodb.net/", //write your mongodb url.
+    status: '❤️ codeshare.me',
+    commandsDir: './commands', //Please don't touch
+    language: "en", //en, tr, nl, pt, fr, ar, zh_TW, it, ja
+    embedColor: "ffa954", //hex color code
+    errorLog: "", //write your discord error log channel id.
+    
 
 sponsor: {
 status: true, //true or false
